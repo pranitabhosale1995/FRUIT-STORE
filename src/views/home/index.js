@@ -17,7 +17,7 @@ export default function HomeView() {
       </div>
 
       <div className="text-center">
-        <img src='./frout.jpeg' className="img-fluid" />
+        <img src='frout.jpeg' className="img-fluid" />
       </div>
 
       <div style={{ maxWidth: 480, margin: `0 auto`, position: `fixed`, bottom: 0, left: 0, right: 0 }}>
